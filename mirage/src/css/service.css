@@ -1,0 +1,53 @@
+.service__title{
+    font-size: 28px;
+    line-height: 40px;
+    color: #F78CB6;
+    text-align: center;
+}
+.service__subtitle{
+    font-weight: 700;
+    font-size: 52px;
+    line-height: 72px;
+    color: #56597A;
+    text-align: center;
+
+}
+.service__cards{
+    display: flex;
+    column-gap: 30px;
+    margin-top: 58px;
+}
+.card{
+    height: 307px;
+    width: 270px;
+    border-radius: 8px;
+    background-color: #FFF1F9;
+    text-align: center;
+    transition: 0.3s;
+    box-shadow: 1px 1px 4px lightpink;
+
+}
+.card:hover{
+    transform: scale(1.1);
+
+}
+.incard{
+   padding: 53px 0 23px;
+}
+
+.card__title{
+    font-weight: 500;
+    font-size: 34px;
+    line-height: 72px;
+    color: #56597A;
+
+
+}
+
+.card__desc{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #919299;
+    padding-bottom: 23px;
+}

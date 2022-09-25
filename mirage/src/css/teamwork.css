@@ -1,0 +1,31 @@
+.teamwork{
+    margin-top: 90px;
+    background: url("../images/creativedeco.png") center/cover no-repeat;
+    background-size: 10%;
+    background-position: left bottom ;
+}
+.teamwork__blocks{
+    display: flex;
+    align-items: center;
+    column-gap: 96px;
+}
+.teamwork__title{
+    font-size: 28px;
+    line-height: 40px;
+    color: #F78CB6;
+    margin-bottom: 15px ;
+}
+.teamwork__subtitle{
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 62px;
+    color: #56597A;
+    margin-bottom: 24px;
+}
+.teamwork__desc{
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 32px;
+    color: #919299;
+    margin-bottom: 40px;
+}

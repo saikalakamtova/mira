@@ -1,0 +1,26 @@
+.agency__blocks{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.agency__title{
+    font-size: 28px;
+    line-height: 40px;
+    color: #F78CB6;
+    margin-bottom: 25px ;
+}
+.agency__subtitle{
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 74px;
+    color: #56597A;
+    margin-bottom: 31px;
+}
+.agency__desc{
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    letter-spacing: 0.02em;
+    color: #919299;
+   margin-bottom: 30px;
+}

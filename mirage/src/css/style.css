@@ -1,0 +1,49 @@
+@import "../fonts/raleway/style.css";
+@import "../fonts/poppins/style.css";
+@import "../css/header.css";
+@import "agency.css";
+@import "service.css";
+@import "creative.css";
+@import "teamwork.css";
+@import "about.css";
+@import "brands.css";
+@import "info.css";
+@import "footer.css";
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    outline: none;
+    scroll-behavior: smooth;
+}
+body{
+    font-family: 'Poppins Regular',sans-serif;
+    background: #fffcfc;
+
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Raleway Regular',sans-serif;
+}
+.container{
+    max-width: 1170px;
+    margin: 0 auto;
+    padding: 57px 0;
+}
+.btn{
+    display: flex;
+    align-items: center;
+    column-gap: 19px;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+    background: #F78BB6;
+    border-radius: 4px;
+    padding:  18px 23px 22px 18px  ;
+    border: 0;
+    cursor:pointer;
+}
+

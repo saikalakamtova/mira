@@ -1,0 +1,33 @@
+.creative{
+    margin-top: 90px;
+    background: url("../images/bloobs.png") center/cover no-repeat;
+    background-size: 10%;
+    background-position: right bottom;
+}
+.creative__blocks{
+    display: flex;
+    align-items: center;
+    column-gap: 79px;
+}
+
+
+.creative__title{
+    font-size: 28px;
+    line-height: 40px;
+    color: #F78CB6;
+    margin-bottom: 15px;
+}
+.creative__subtitle{
+    font-weight: 700;
+    font-size: 52px;
+    line-height: 62px;
+    color: #56597A;
+    margin-bottom: 24px;
+}
+.creative__desc{
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 32px;
+    color: #919299;
+    margin-bottom: 40px;
+}

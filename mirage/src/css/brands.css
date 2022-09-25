@@ -1,0 +1,8 @@
+.brands{
+    margin-top: 140px;
+}
+
+.brands__img{
+    display: flex;
+    align-items: center;
+}

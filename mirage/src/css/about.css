@@ -1,0 +1,41 @@
+.about{
+    margin-top: 140px;
+}
+.about__blocks{
+    display: flex;
+    align-items: center;
+    column-gap: 138px;
+}
+.about__title{
+    font-size: 28px;
+    line-height: 40px;
+    color: #F78CB6;
+    margin-bottom: 15px;
+}
+.about__subtitle{
+    font-weight: 700;
+    font-size: 52px;
+    line-height: 62px;
+    color: #56597A;
+    margin-bottom: 38px;
+}
+.about__desc{
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    color: #919299;
+    margin-bottom: 23px;
+}
+.about__name{
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 32px;
+    color: #56597A;
+
+}
+.about__info{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 32px;
+    color: #ABABAB;
+}
